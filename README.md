@@ -1,7 +1,9 @@
-# 游戏资源包收藏-game-resource-collection
+# GameResourceCollection
 
 
+* 收集、制作了一些游戏的贴图素材，仅供个人使用和学习
+* Collect and design some game resource for personal use or study.
 
-Collect some game resource for personal use or study
-
-收集了一些游戏的贴图素材，仅供个人使用和学习
+### 素材类型
+* 像素贴图
+* 音效
