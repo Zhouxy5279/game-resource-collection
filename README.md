@@ -5,5 +5,10 @@
 * Collect and design some game resource for personal use or study.
 
 ### 素材类型
+* Minecraft
+* FlappyBird
+* Advanced Wars
+
+### 素材类型
 * 像素贴图
 * 音效
